@@ -126,7 +126,7 @@ Publish the website in the LocalHost.
     <div class="quote">
       “Those are the four most beautiful words in the English language. You can go now.”
     </div>
-    <div class="author">BY GOPIKA</div>
+    <div class="author">BY ADHI SELVAKUMAR R (25008421)</div>
   </div>
 </body>
 </html>
